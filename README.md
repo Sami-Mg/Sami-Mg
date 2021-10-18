@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sami-Mg
 - 👀 I’m interested in Artificial Inteligency I would like to learn more and more
 - 🌱 I’m currently learning Self Driving Car Engineer Nanodegree
-- 💞️ I’m looking to opportunity to work in this incredible field.
+- 💞️ I’m looking for opportunities to work in this incredible field.
 
 
 <!---
